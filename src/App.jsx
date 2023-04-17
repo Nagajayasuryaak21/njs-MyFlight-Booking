@@ -26,6 +26,7 @@ const App = () => {
         <Route path="/admin" element={adminId!=null ? <AdminHero/>:<AdminLogin/>} />
         <Route path="/form" element={adminId!=null ? <AdminForm/>:<AdminLogin/>} />
         <Route path="/form/:id" element={adminId!=null ? <AdminForm/>:<AdminLogin/>} />
+        <Route path="/adminbookings/:id" element={adminId!=null ? <AdminBookings/>:<AdminLogin/>} />
 
       </Routes>
     </BrowserRouter>
