@@ -33,7 +33,7 @@ Book MyPlane Flight Booking Website was built with the following technologies:
 - **Node.js:** a JavaScript runtime used for building the server-side REST API.
 - **Vite:** a build tool used for bundling and optimizing the client-side code.
 - **React Simple Maps:** a lightweight library used for creating interactive maps.
-- **Three.js:** a 3D graphics library used for visualizing the selected plane model.
+- **Three.js:** a 3D graphics library used for visualizing the plane model.
 
 ## Conclusion
 Book MyPlane Flight Booking Website is a powerful and feature-rich flight booking application that provides a seamless and user-friendly experience for customers. With the use of React Simple Maps, customers can easily select their desired departure and destination countries, and visualize their selection on a live map. The admin panel provides easy management of flights and bookings. Overall, Book MyPlane Flight Booking Website is a great example of a full-stack MERN application and provides a unique and modern approach to flight booking. Try it out now and experience the future of flight booking!
